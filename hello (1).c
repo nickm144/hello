@@ -1,7 +1,7 @@
 /**
  * Author: Ahmed Albalushi
  * Date: 2010/01/17
- *
+ * .
  * A simple hello world program in C
  *
  */
