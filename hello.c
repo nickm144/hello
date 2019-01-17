@@ -11,6 +11,7 @@
 int main(int argc, char **argv) {
 
   printf("Hello World!\n");
+  printf("Finance\n");
 
   return 0;
 }
